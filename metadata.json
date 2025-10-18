@@ -1,0 +1,7 @@
+{
+  "name": "Recital Studio Pro",
+  "description": "A professional-grade voice recorder for Quranic recitation, featuring a real-time audio effects suite, live monitoring, and AI-powered Tajweed analysis for a world-class recording experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
